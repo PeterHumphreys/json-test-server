@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "user_id" : 1,
+      "id" : 1,
       "user_email" : "test@test.com",
       "user_first_name" : "John",
       "user_last_name" : "Doe",
