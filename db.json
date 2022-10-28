@@ -150,5 +150,14 @@
       "workout-list" : [],
       "time-duration" : 2
     }
+  ],
+  
+  "exercises": [
+    {
+      "id" : 1,
+      "name" : "Bench Press",
+      "description" : "Blah",
+      "image_url" : "\\images\\placeholder\\workout-placeholder.svg"
+    }
   ]
 }
