@@ -157,7 +157,11 @@
       "id" : 1,
       "name" : "Bench Press",
       "description" : "Blah",
-      "image_url" : "\\images\\placeholder\\workout-placeholder.svg"
+      "image" : {
+        "image_url" : "\\images\\placeholder\\workout-placeholder.svg",
+        "image_alt_text" : "Exercise Placeholder Graphic"
+
+      }
     }
   ]
 }
